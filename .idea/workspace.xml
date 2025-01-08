@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9dbd90a-57bc-47a4-9f8f-6a61dd4b3401" name="Changes" comment="This my first commit.">
+    <list default="true" id="c9dbd90a-57bc-47a4-9f8f-6a61dd4b3401" name="Changes" comment="The first question is done.">
+      <change afterPath="$PROJECT_DIR$/Q2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -12,6 +14,13 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -98,11 +107,19 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1736350182445</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="The first question is done.">
+      <option name="closed" value="true" />
+      <created>1736351835428</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1736351835428</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="This my first commit." />
-    <option name="LAST_COMMIT_MESSAGE" value="This my first commit." />
+    <MESSAGE value="The first question is done." />
+    <option name="LAST_COMMIT_MESSAGE" value="The first question is done." />
   </component>
 </project>
