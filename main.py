@@ -2,6 +2,8 @@
 # Q1
 from Q2 import left_money
 from Q3 import q3_1a_1b
+from Q3 import q3_2a
+from Q3 import q3_2b
 
 def print_hi(name):
     print(f'This program was made by {name}.' )
@@ -27,5 +29,11 @@ if __name__ == '__main__':
     q3_1a_1b()
     print("")
 
+    print("Q3: 2a")
+    q3_2a()
+    print("")
 
+    print("Q3: 2b")
+    q3_2b()
+    print("")
 
