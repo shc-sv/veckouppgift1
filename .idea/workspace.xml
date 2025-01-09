@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9dbd90a-57bc-47a4-9f8f-6a61dd4b3401" name="Changes" comment="The first question is done.">
+    <list default="true" id="c9dbd90a-57bc-47a4-9f8f-6a61dd4b3401" name="Changes" comment="The second question is done.">
+      <change afterPath="$PROJECT_DIR$/Q3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Q2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -120,12 +120,20 @@
       <option name="presentableId" value="LOCAL−00003" />
       <updated>1736353605267</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL−00004" summary="The second question is done.">
+      <option name="closed" value="true" />
+      <created>1736422420618</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1736422420619</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="This my first commit." />
     <MESSAGE value="The first question is done." />
-    <option name="LAST_COMMIT_MESSAGE" value="The first question is done." />
+    <MESSAGE value="The second question is done." />
+    <option name="LAST_COMMIT_MESSAGE" value="The second question is done." />
   </component>
 </project>
