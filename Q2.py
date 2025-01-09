@@ -6,13 +6,9 @@ def left_money():
     money_I_have = 200  # pengar på fickan
     print("Det blir " + str(money_I_have - ticket_price) + " kronor över.")
 
-    divide_left_money_by2 = money_I_have - ticket_price / 2
-    print("Hälften är: " + str(divide_left_money_by2))
+    divide_left_money_by_2 = money_I_have - ticket_price / 2
+    print("Hälften är: " + str(divide_left_money_by_2))
 
 
 
-    # No Q2
-    if 70 % 60 == 10:
-        print("Right!")
-    else:
-        print("Wrong!")
+
