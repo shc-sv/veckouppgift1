@@ -1,5 +1,5 @@
 # Vecouppgift 1
-# Q3:
+# Q3: 1a, 1b, 2a, 2b
 
 def q3_1a_1b():
     # Try to convert the input to an integer
@@ -14,7 +14,6 @@ def q3_1a_1b():
         print(f"Summan av {number1} och {number2} är {sum}. Det blir rätt! :) ")
     except ValueError:
         print(f"{error_number} är inte ett heltal.")
-
 
 def q3_2a():
     jacket_price = 2000

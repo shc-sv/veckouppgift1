@@ -1,5 +1,4 @@
 # Vecouppgift 1
-# Q1
 from Q2 import left_money
 from Q3 import q3_1a_1b
 from Q3 import q3_2a
@@ -7,7 +6,6 @@ from Q3 import q3_2b
 from Q4 import q4_1a_1b_1c
 from Q4 import q4_2
 from Q4 import q4_3a_3b
-
 
 def print_hi(name):
     print(f'This program was made by {name}.' )

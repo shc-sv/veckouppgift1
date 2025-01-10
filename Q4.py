@@ -3,9 +3,7 @@
 import math
 from datetime import datetime, timedelta
 
-
 def q4_1a_1b_1c():
-
     # 1a:
     print("Det är ca 470 km mellan Stockholm och Göteborg. Nu vill vi räkna ut hur lång tid det ska ta!")
     drive_distance = 470
@@ -25,7 +23,6 @@ def q4_1a_1b_1c():
         print(f'1b. Man behöver {drive_time_minute} minuter att köra från Stockholm till Göteborg.')
 
         # 1c
-        # Heltalsdivision för att få timmar
         drive_time_hour = drive_time_second // 3600
         drive_time_minute = int ((drive_time_second % 3600) /60)
         print(f'1c. Man behöver {drive_time_hour} timmar och {drive_time_minute} minuter att köra från Stockholm till Göteborg.')
