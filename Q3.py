@@ -27,7 +27,7 @@ def q3_2b():
     jacket_price = 2000
     print(f"Jackan kostar {jacket_price} kr.")
     try:
-        discount = input("Hur stor procent är det på rean? Ange procentsats här: ")
+        discount = input("Hur stor procent är det på rean? Ange procentsats här i %: ")
         discount = int (discount)
         print(f"Procentsatsen är {discount}%.")
         discount_price = jacket_price * discount / 100

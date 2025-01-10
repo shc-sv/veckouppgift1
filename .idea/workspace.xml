@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9dbd90a-57bc-47a4-9f8f-6a61dd4b3401" name="Changes" comment="The second question is done.">
+    <list default="true" id="c9dbd90a-57bc-47a4-9f8f-6a61dd4b3401" name="Changes" comment="Question 3 är all done.">
+      <change afterPath="$PROJECT_DIR$/Q4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Q3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Q3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
@@ -134,13 +135,21 @@
       <option name="presentableId" value="LOCAL−00005" />
       <updated>1736433076977</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL−00006" summary="Question 3 är all done.">
+      <option name="closed" value="true" />
+      <created>1736436825118</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1736436825118</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="This my first commit." />
     <MESSAGE value="The first question is done." />
     <MESSAGE value="The second question is done." />
-    <option name="LAST_COMMIT_MESSAGE" value="The second question is done." />
+    <MESSAGE value="Question 3 är all done." />
+    <option name="LAST_COMMIT_MESSAGE" value="Question 3 är all done." />
   </component>
 </project>
