@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9dbd90a-57bc-47a4-9f8f-6a61dd4b3401" name="Changes" comment="Question 3 är all done.">
-      <change afterPath="$PROJECT_DIR$/Q4.py" afterDir="false" />
+    <list default="true" id="c9dbd90a-57bc-47a4-9f8f-6a61dd4b3401" name="Changes" comment="Question 4 1a, 1b, 1c is done.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Q3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Q4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -142,7 +141,14 @@
       <option name="presentableId" value="LOCAL−00006" />
       <updated>1736436825118</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL−00007" summary="Question 4 1a, 1b, 1c is done.">
+      <option name="closed" value="true" />
+      <created>1736516103656</created>
+      <option name="number" value="LOCAL−00007" />
+      <option name="presentableId" value="LOCAL−00007" />
+      <updated>1736516103656</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -150,6 +156,7 @@
     <MESSAGE value="The first question is done." />
     <MESSAGE value="The second question is done." />
     <MESSAGE value="Question 3 är all done." />
-    <option name="LAST_COMMIT_MESSAGE" value="Question 3 är all done." />
+    <MESSAGE value="Question 4 1a, 1b, 1c is done." />
+    <option name="LAST_COMMIT_MESSAGE" value="Question 4 1a, 1b, 1c is done." />
   </component>
 </project>

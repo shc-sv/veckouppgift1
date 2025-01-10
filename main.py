@@ -5,7 +5,8 @@ from Q3 import q3_1a_1b
 from Q3 import q3_2a
 from Q3 import q3_2b
 from Q4 import q4_1a_1b_1c
-
+from Q4 import q4_2
+from Q4 import q4_3a_3b
 
 def print_hi(name):
     print(f'This program was made by {name}.' )
@@ -15,7 +16,7 @@ def print_hi(name):
 if __name__ == '__main__':
     print("************** Veckouppgit 1 ************")
     print("Q1:")
-
+""""
 # Q1
 print("Hello world!")
 print_hi('Shu-Hui')
@@ -44,3 +45,12 @@ print("Q4: 1a, 1b, 1c")
 q4_1a_1b_1c()
 print("")
 
+print("Q4: 2")
+q4_2()
+print("")
+
+"""
+
+print("Q4: 3a, 3b")
+q4_3a_3b()
+print("")

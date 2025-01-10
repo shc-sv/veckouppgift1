@@ -1,5 +1,7 @@
 # Vecouppgift 1
-# Q4: 1a, 1b, 1c
+# Q4: 1a, 1b, 1c, 2, 3a, 3b
+import math
+import datetime
 
 def q4_1a_1b_1c():
 
@@ -28,3 +30,26 @@ def q4_1a_1b_1c():
         print(f'1c. Man behöver {drive_time_hour} timmar och {drive_time_minute} minuter att köra från Stockholm till Göteborg.')
     except ValueError:
         print(f"{drive_speed} är inte ett heltal.")
+
+def q4_2():
+    # 2
+    print("3a. Här räknar ut längden på hypotenusan i en rätvinklig triangel.")
+    side1_length = input("Ange här längden på en av de två kortare sidorna: ")
+    side2_length = input("Ange här längden på den andra av de två kortare sidorna: ")
+    try:
+        side1_length = int(side1_length)
+        side2_length = int(side2_length)
+
+        side1_length = math.pow(side1_length, 2)
+        side2_length = math.pow(side2_length, 2)
+
+        square_root = math.sqrt(side1_length + side2_length)
+        print(f"längden på hypotenusan är {square_root }")
+    except ValueError:
+        print(f"{side_length} är inte ett heltal.")
+
+
+def q4_3a_3b():
+    # 3a
+    print("Hantera datum i Python!")
+    print("Dagens datum är: ")
