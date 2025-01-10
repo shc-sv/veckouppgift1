@@ -1,12 +1,13 @@
-# Vecouppgift 1
+# Veckouppgift 1 by Shu-Hui Chen 2025-01-10
 # Q4: 1a, 1b, 1c, 2, 3a, 3b
 import math
-import datetime
+from datetime import datetime, timedelta
+
 
 def q4_1a_1b_1c():
 
     # 1a:
-    print("Det är ca 470 km mellan Stockholm och Göteborg. Nu vill vi räkna ut hur lång tid det.")
+    print("Det är ca 470 km mellan Stockholm och Göteborg. Nu vill vi räkna ut hur lång tid det ska ta!")
     drive_distance = 470
     drive_speed = input("Ange här hur fort man ska köra i km/h: ")
     try:
@@ -33,7 +34,7 @@ def q4_1a_1b_1c():
 
 def q4_2():
     # 2
-    print("3a. Här räknar ut längden på hypotenusan i en rätvinklig triangel.")
+    print("2. Här räknar vi ut längden på hypotenusan i en rätvinklig triangel.")
     side1_length = input("Ange här längden på en av de två kortare sidorna: ")
     side2_length = input("Ange här längden på den andra av de två kortare sidorna: ")
     try:
@@ -43,7 +44,7 @@ def q4_2():
         side1_length = math.pow(side1_length, 2)
         side2_length = math.pow(side2_length, 2)
 
-        square_root = math.sqrt(side1_length + side2_length)
+        square_root = format(math.sqrt(side1_length + side2_length), ".2f")
         print(f"längden på hypotenusan är {square_root }")
     except ValueError:
         print(f"{side_length} är inte ett heltal.")
@@ -51,5 +52,20 @@ def q4_2():
 
 def q4_3a_3b():
     # 3a
-    print("Hantera datum i Python!")
-    print("Dagens datum är: ")
+    date_now = datetime.now().date()
+    print(f'3a. Dagens datum är {date_now}.')
+
+    #3b
+    # List of month name
+    month_names = [
+        'Januari', 'Februari', 'Mars', 'April', 'Maj', 'Juni',
+        'Juli', 'Augusti', 'September', 'Oktober', 'November', 'December'
+    ]
+
+    date_after_7_days = date_now + timedelta(days =7)
+    month_name = month_names[date_after_7_days.month - 1]
+
+    print(f'3b. Om 7 dagar är datumet {date_after_7_days} eller den {date_after_7_days.day} { month_name} {date_after_7_days.year}.')
+
+
+
