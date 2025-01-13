@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9dbd90a-57bc-47a4-9f8f-6a61dd4b3401" name="Changes" comment="Question 4. 3a, 3b are done.">
+    <list default="true" id="c9dbd90a-57bc-47a4-9f8f-6a61dd4b3401" name="Changes" comment="The final version of Veckouppgift 1.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Q3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Q4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Q2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,36 +24,36 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "shc-sv"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;shc-sv&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/shc-sv/veckouppgift1.git",
-    "accountId": "184274a6-0c9c-4bda-bdf4-8686db6ac685"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/shc-sv/veckouppgift1.git&quot;,
+    &quot;accountId&quot;: &quot;184274a6-0c9c-4bda-bdf4-8686db6ac685&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2rLiFZadJ86lD6aVljv6O8k5zcf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="01_Intro" />
@@ -163,7 +162,14 @@
       <option name="presentableId" value="LOCAL−00009" />
       <updated>1736521789690</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL−00010" summary="The final version of Veckouppgift 1.">
+      <option name="closed" value="true" />
+      <created>1736522573327</created>
+      <option name="number" value="LOCAL−00010" />
+      <option name="presentableId" value="LOCAL−00010" />
+      <updated>1736522573327</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -174,6 +180,7 @@
     <MESSAGE value="Question 4 1a, 1b, 1c is done." />
     <MESSAGE value="Question 4. 2 is done." />
     <MESSAGE value="Question 4. 3a, 3b are done." />
-    <option name="LAST_COMMIT_MESSAGE" value="Question 4. 3a, 3b are done." />
+    <MESSAGE value="The final version of Veckouppgift 1." />
+    <option name="LAST_COMMIT_MESSAGE" value="The final version of Veckouppgift 1." />
   </component>
 </project>

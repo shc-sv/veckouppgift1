@@ -51,5 +51,5 @@ if __name__ == '__main__':
     print("Q4: 3a, 3b - Hantera datum i Python.")
     q4_3a_3b()
     print("")
-    print("************** By Shu-Hui Chen 2025-01-10 ************")
+    print("************** By Shu-Hui Chen 2025-01-13 ************")
 

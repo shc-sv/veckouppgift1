@@ -6,8 +6,9 @@ def left_money():
     money_I_have = 200  # pengar på fickan
     print("Det blir " + str(money_I_have - ticket_price) + " kronor över.")
 
-    divide_left_money_by_2 = money_I_have - ticket_price / 2
-    print("Hälften är: " + str(divide_left_money_by_2))
+    half_of_money_left = (money_I_have - ticket_price) / 2
+    print("Jag tror att det saknas parenteser i denna rad: z = 200 - 100 / 2. Därför ändrar jag koden till: z = (200 - 100) / 2.")
+    print("Hälften av pengar som är kvar är: " + str(half_of_money_left))
 
 
 
