@@ -31,11 +31,11 @@ def q3_2b():
         print(f"Procentsatsen är {discount}%.")
         discount_price = jacket_price * discount / 100
         print(f"Du får rabbatt på {discount_price} kr.")
-        final_price = jacket_price-(jacket_price * discount / 100)
+        final_price = jacket_price * (100 - discount) / 100
+        # final_price = jacket_price* (100- discount / 100)
         print(f"Då betalar du {final_price} kr nu.")
     except ValueError:
         print(f"{discount} är inte ett heltal.")
-
 
 
 

@@ -10,6 +10,10 @@ def left_money():
     print("Jag tror att det saknas parenteser i denna rad: z = 200 - 100 / 2. Därför ändrar jag koden till: z = (200 - 100) / 2.")
     print("Hälften av pengar som är kvar är: " + str(half_of_money_left))
 
-
+# Bra variabelnamn:
+# - uttrycksfulla (beskriver vad de är till för)
+# - inga förkortning
+# - lagom långa
+# - använd engelska konsekvent
 
 

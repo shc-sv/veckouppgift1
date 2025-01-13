@@ -59,7 +59,7 @@ def q4_3a_3b():
         'Juli', 'Augusti', 'September', 'Oktober', 'November', 'December'
     ]
 
-    date_after_7_days = date_now + timedelta(days =7)
+    date_after_7_days = date_now + timedelta(days = 7)
     month_name = month_names[date_after_7_days.month - 1]
 
     print(f'3b. Om 7 dagar är datumet {date_after_7_days} eller den {date_after_7_days.day} { month_name} {date_after_7_days.year}.')
